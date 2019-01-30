@@ -1,8 +1,12 @@
 {
-  "name": "pas",
+  "name": "pas-test",
   "version": "1.0.0",
   "description": "Ejemplo de paquete del PAS",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "readme.md"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
